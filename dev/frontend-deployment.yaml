@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
         - name: nginx
-          image: "balazsnagybudd946/argo-frontend:3"
+          image: "balazsnagybudd946/argo-frontend:4"
           lifecycle:
             preStop:
               exec:
