@@ -16,4 +16,4 @@ spec:
     spec:
       containers:
         - name: argo-backend
-          image: "balazsnagybudd946/argo-backend:1"
+          image: "balazsnagybudd946/argo-backend:2"
