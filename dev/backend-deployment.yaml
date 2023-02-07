@@ -17,6 +17,3 @@ spec:
       containers:
         - name: argo-backend
           image: "balazsnagybudd946/argo-backend:1"
-          ports:
-            - name: http
-              containerPort: 3001
